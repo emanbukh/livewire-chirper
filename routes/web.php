@@ -28,7 +28,7 @@ Route::view('profile', 'profile')
     ->middleware(['auth'])
     ->name('profile');
 
-
+Route::mailPreview();
 
 
 require __DIR__.'/auth.php';
