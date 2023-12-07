@@ -30,4 +30,5 @@ Route::view('profile', 'profile')
 
 
 
+
 require __DIR__.'/auth.php';
