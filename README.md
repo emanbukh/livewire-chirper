@@ -1,6 +1,6 @@
 ## About Livewire-Chirper
 
-A simple application that created based on Tweeter.com. The chirp resemble tweet action when posting a post.
+A simple application created based on Twitter.com, wherein 'chirps' emulate the action of tweets when posting content.
 
     * Tackle authentication features like login and registration using Laravel Breeze
     * Handle form for creating a post and display list using livewire component
@@ -8,10 +8,9 @@ A simple application that created based on Tweeter.com. The chirp resemble tweet
     * Authorization is handle by applying model policy
     * Every post creted will have a notification trigger to all users
 
-Build using livewire which mission is to build on the efficiency and joy of building web apps with Laravel and push it to the max. Any part of web development that can be made easier, we have tried or are planning to do.
+Built using Livewire, which aims to enhance the efficiency and pleasure of creating web applications with Laravel, taking it to the maximum potential. We've either attempted or have plans to streamline any aspect of web development that can be simplified.
 
-This application was built to complete the assignment given for my internship task.
-
+This application was developed to fulfill the requirements of my internship assignment.
 ## Deployment
 
 Clone this directory then run:
@@ -53,5 +52,5 @@ If you discover a security vulnerability within this application, please send an
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# livewire-chirper
+
 
